@@ -1,0 +1,4 @@
+name: AureliumOverenchantFix
+version: '${version}'
+main: de.lyriaserver.aureliumoverenchantfix.AureliumOverenchantFix
+api-version: 1.19
