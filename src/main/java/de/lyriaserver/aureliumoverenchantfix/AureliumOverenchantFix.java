@@ -31,6 +31,7 @@ public final class AureliumOverenchantFix extends JavaPlugin implements Listener
                     Map.entry(Enchantment.DAMAGE_ARTHROPODS, 3),
                     Map.entry(Enchantment.DAMAGE_UNDEAD, 3),
                     Map.entry(Enchantment.FIRE_ASPECT, 1),
+                    Map.entry(Enchantment.ARROW_DAMAGE, 3),
                     Map.entry(Enchantment.SWEEPING_EDGE, 2),
                     Map.entry(Enchantment.ARROW_KNOCKBACK, 1),
                     Map.entry(Enchantment.PROTECTION_ENVIRONMENTAL, 3),
